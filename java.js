@@ -1,1 +1,0 @@
-consol.log('proof of life')
